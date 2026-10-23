@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XML_DIZ_INFO>
+
   <MASTER_PAD_VERSION_INFO>
     <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
     <MASTER_PAD_EDITOR>ToolNova Apps</MASTER_PAD_EDITOR>
-    <MASTER_PAD_INFO>Dice Trend Analyzer PAD file</MASTER_PAD_INFO>
+    <MASTER_PAD_INFO>PAD file for Dice Trend Analyzer</MASTER_PAD_INFO>
   </MASTER_PAD_VERSION_INFO>
 
   <Company_Info>
     <Company_Name>ToolNova Apps</Company_Name>
     <Address_1></Address_1>
     <Address_2></Address_2>
-    <City_Town>Ho Chi Minh City</City_Town>
-    <State_Province>Ho Chi Minh City</State_Province>
+    <City_Town></City_Town>
+    <State_Province></State_Province>
     <Zip_Postal_Code></Zip_Postal_Code>
     <Country>Vietnam</Country>
     <Company_WebSite_URL>https://toolnovaapps.blogspot.com/</Company_WebSite_URL>
+
     <Contact_Info>
       <Author_First_Name>ToolNova</Author_First_Name>
       <Author_Last_Name>Apps</Author_Last_Name>
       <Author_Email>nguyenph356@gmail.com</Author_Email>
+
       <Contact_First_Name>ToolNova</Contact_First_Name>
       <Contact_Last_Name>Apps</Contact_Last_Name>
       <Contact_Email>nguyenph356@gmail.com</Contact_Email>
@@ -28,45 +31,69 @@
   <Program_Info>
     <Program_Name>Dice Trend Analyzer</Program_Name>
     <Program_Version>1.0.0</Program_Version>
+
     <Program_Release_Month>10</Program_Release_Month>
     <Program_Release_Day>23</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
-    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
     <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>New Release</Program_Release_Status>
 
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
+
+    <Program_OS_Support>
+      Windows 10, Windows 11
+    </Program_OS_Support>
+
     <Program_Language>English</Program_Language>
-
-    <Program_Info_URL>
-      https://toolnovaapps.blogspot.com/2026/09/huong-dan-phan-mem-du-oan-tai-xiu-dice.html
-    </Program_Info_URL>
-
-    <Program_Download_URL>
-      https://dl.dropboxusercontent.com/scl/fi/6so4e7i3qquexyokc9ohc/DiceTrendAnalyzerSetup.zip?rlkey=hocmlhzvovrhl5erp23ehzn51&amp;st=pxizjqp7&amp;dl=1
-    </Program_Download_URL>
-
-    <Program_Icon_URL>
-      https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUarBIsoRRHW4kIy5cn0VKI4swlmZ06bIMQpVA_gavVxz4bi5na3piBVfWr6yyYOuFQX0h1yUd2UCs1lp4TJDgl_3Dhmr_uWADvT2W7u7pDK1soB4FOd7b4rK-mXMB4pUJTyH_p8pyzX9F3ht8PvcuQ8vpxGfxaxKHSnSPsHcLrm74quIeLmA-szHbm6Qo/s500/Dice%20Trend%20Analyzer.webp
-    </Program_Icon_URL>
-
-    <Program_Screenshot_URL>
-      https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YjsD0kQD2Oi7CbZR63d_qDRABDprBtrvlLQhK-70zITTXbFbliWCCAUNYuN7pI4GvGzGdvv4uIM6XqPVuOkV2pXcHhVFZPScMPqEOhyLtvwkqFoiFCXYDnlYS4PwaBw21j-_gszNzWrVH05Fk1Dhbn_p6BmkA7xP2E6tMygFDQ1RVYzH7y4bder-DpdW/s983/Main.jpg
-    </Program_Screenshot_URL>
-
-    <Program_Change_Info>
-      Initial release of Dice Trend Analyzer for Windows.
-    </Program_Change_Info>
 
     <Program_Requirements>
       Windows 10 or later, 64-bit processor, 2 GB RAM, and at least 100 MB of free storage.
     </Program_Requirements>
+
+    <Program_Category_Class>
+      System Utilities
+    </Program_Category_Class>
+
+    <Program_Specific_Category>
+      Utilities
+    </Program_Specific_Category>
+
+    <Program_Change_Info>
+      Initial release of Dice Trend Analyzer for Windows.
+    </Program_Change_Info>
   </Program_Info>
+
+  <Web_Info>
+
+    <Application_URLs>
+      <Application_Info_URL>https://toolnovaapps.blogspot.com/2026/09/huong-dan-phan-mem-du-oan-tai-xiu-dice.html</Application_Info_URL>
+
+      <Application_Order_URL>https://toolnovaapps.blogspot.com/2026/09/huong-dan-phan-mem-du-oan-tai-xiu-dice.html</Application_Order_URL>
+
+      <Application_Screenshot_URL>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YjsD0kQD2Oi7CbZR63d_qDRABDprBtrvlLQhK-70zITTXbFbliWCCAUNYuN7pI4GvGzGdvv4uIM6XqPVuOkV2pXcHhVFZPScMPqEOhyLtvwkqFoiFCXYDnlYS4PwaBw21j-_gszNzWrVH05Fk1Dhbn_p6BmkA7xP2E6tMygFDQ1RVYzH7y4bder-DpdW/s983/Main.jpg</Application_Screenshot_URL>
+
+      <Application_Icon_URL>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUarBIsoRRHW4kIy5cn0VKI4swlmZ06bIMQpVA_gavVxz4bi5na3piBVfWr6yyYOuFQX0h1yUd2UCs1lp4TJDgl_3Dhmr_uWADvT2W7u7pDK1soB4FOd7b4rK-mXMB4pUJTyH_p8pyzX9F3ht8PvcuQ8vpxGfxaxKHSnSPsHcLrm74quIeLmA-szHbm6Qo/s500/Dice%20Trend%20Analyzer.webp</Application_Icon_URL>
+
+      <Application_XML_File_URL>https://raw.githubusercontent.com/nguyenph356-cmd/dice-trend-analyzer/main/dice-trend-analyzer-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+
+    <Download_URLs>
+      <Primary_Download_URL>https://dl.dropboxusercontent.com/scl/fi/6so4e7i3qquexyokc9ohc/DiceTrendAnalyzerSetup.zip?rlkey=hocmlhzvovrhl5erp23ehzn51&amp;st=pxizjqp7&amp;dl=1</Primary_Download_URL>
+
+      <Secondary_Download_URL>https://raw.githubusercontent.com/nguyenph356-cmd/dice-trend-analyzer/main/DiceTrendAnalyzerSetup.zip</Secondary_Download_URL>
+
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
 
   <Program_Descriptions>
     <English>
+
       <Keywords>
         dice analyzer, dice statistics, trend analysis, data analysis, dice patterns, statistical trends, Windows utility, dice results
       </Keywords>
@@ -75,25 +102,38 @@
 
       <Char_Desc_80>Windows tool for analyzing dice results, patterns and statistical trends.</Char_Desc_80>
 
-      <Char_Desc_250>
-        Dice Trend Analyzer is a lightweight Windows utility for organizing and analyzing historical dice-result data, including frequencies, recurring patterns, session history, and statistical trends through a simple desktop interface.
-      </Char_Desc_250>
+      <Char_Desc_250>Dice Trend Analyzer is a lightweight Windows utility for organizing and analyzing historical dice-result data, including frequencies, recurring patterns, session history and statistical trends through a simple desktop interface.</Char_Desc_250>
 
-      <Char_Desc_450>
-        Dice Trend Analyzer is a lightweight Windows desktop application designed to help users organize, review, and analyze historical dice-result data. It provides tools for reviewing frequencies, recurring patterns, session history, comparing recent results, and studying statistical trends through a simple interface.
-      </Char_Desc_450>
+      <Char_Desc_450>Dice Trend Analyzer is a lightweight Windows desktop application designed to help users organize, review and analyze historical dice-result data. It provides tools for reviewing frequencies, recurring patterns, session history, comparing recent results and studying statistical trends through a simple desktop interface.</Char_Desc_450>
 
-      <Char_Desc_2000>
-        Dice Trend Analyzer is a lightweight Windows desktop application designed to help users organize, review, and analyze historical dice-result data.
+      <Char_Desc_2000>Dice Trend Analyzer is a lightweight Windows desktop application designed to help users organize, review and analyze historical dice-result data.
 
-        The software provides a simple interface for entering previous results, reviewing session history, comparing recent outcomes, identifying recurring patterns, and studying statistical trends.
+The software provides a simple interface for entering previous results, reviewing session history, comparing recent outcomes, identifying recurring patterns and studying statistical trends.
 
-        Key features include recording historical dice results, analyzing result frequencies, comparing sessions, reviewing recurring patterns, and displaying statistical trends.
+Key features include:
 
-        Dice Trend Analyzer is intended as an analytical and informational utility. Historical patterns and statistical observations do not guarantee future results.
+- Record and review historical dice results
+- Analyze result frequencies
+- Identify recurring patterns
+- Compare recent and previous sessions
+- Review statistical trends over time
+- Lightweight Windows desktop interface
+- Free to download and use
+- Compatible with Windows 10 and Windows 11
 
-        Developed by ToolNova Apps for Windows 10 and Windows 11.
-      </Char_Desc_2000>
+Dice Trend Analyzer is intended as an analytical and informational utility. Historical patterns and statistical observations do not guarantee future results.
+
+Developed by ToolNova Apps.</Char_Desc_2000>
+
     </English>
   </Program_Descriptions>
+
+  <Permissions>
+    <Distribution_Permissions>Dice Trend Analyzer may be distributed by software download directories and software listing websites provided that the original installation package is not modified.</Distribution_Permissions>
+
+    <EULA>
+      Dice Trend Analyzer is freeware. Users may download and use the software free of charge. Redistribution is permitted only when the original package remains unchanged.
+    </EULA>
+  </Permissions>
+
 </XML_DIZ_INFO>
